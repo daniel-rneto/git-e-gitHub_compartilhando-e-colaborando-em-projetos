@@ -1,1 +1,1 @@
-# git-e-gitHub_compartilhando-e-colaborando-em-projetos
+# Git e GitHub: compartilhando e colaborando em projetos
