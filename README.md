@@ -13,4 +13,6 @@
 
 - git remote rename origin novo-origin (Alterar o apelido de um repositório remoto)
 
-- 
+- git log (Mostra o histórico dos commits do repositório)
+
+w
