@@ -15,4 +15,4 @@
 
 - git log (Mostra o histórico dos commits do repositório)
 
-- outro comando
+- 
